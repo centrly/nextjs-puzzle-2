@@ -1,7 +1,7 @@
 import Link from 'next/link'
 const Index = () => (
   <div>
-    Hello World.{' '}
+    Hi Katia, puzzle content goes here.{' '}
     <Link href="/about">
       <a>About</a>
     </Link>
