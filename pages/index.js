@@ -3,6 +3,7 @@ const Index = () => (
   <div style={{fontFamily: "courier, courier new, serif;"}}>
     <p>Congrats, you successfully solved Puzzle 2! Email - <a href="mailto:katia.paramonova@centrly.com">katia.paramonova@centrly.com</a> with the subject line “Taxonomy”! Do it ASAP as your ranking for Puzzle 2 depends on it :D</p>
     <br/>
+    <p>Now, Puzzle 3:</p>
     <p>42.35716336173117, -71.09524707429696 S 1</p>
     <p>42.360304758949596, -71.09481933294093 NW 9</p>
     <p>42.36105399126457, -71.09656388861532 SW 5</p>
