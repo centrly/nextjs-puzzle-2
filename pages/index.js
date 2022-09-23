@@ -1,10 +1,7 @@
 import Link from 'next/link'
 const Index = () => (
-  <div>
-    Hi Katia, puzzle content goes here.{' '}
-    <Link href="/about">
-      <a>About</a>
-    </Link>
+  <div style={{fontFamily:"courier, courier new, serif;"}}>
+    elvjc pfljf despa bapsl cscpf bblkK fksak yldcj aqlpc qxqsa jlbri cqqfb frcsf lk
   </div>
 )
 export default Index;
