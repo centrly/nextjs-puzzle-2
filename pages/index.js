@@ -10,6 +10,7 @@ const Index = () => (
     <p>Answer: _ _ _ _ _ _</p>
     <p>Hints: Always read top-down. And to IRL or not to IRL, that's the Q.</p>
     <p>As always, enter in for the finale: ??????.centrly.com</p>
+    <p>Reach out to contact@centrly.com if you need help.</p>
   </div>
 )
 export default Index;
