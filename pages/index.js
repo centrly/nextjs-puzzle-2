@@ -1,7 +1,7 @@
 import Link from 'next/link'
 const Index = () => (
   <div style={{fontFamily:"courier, courier new, serif;"}}>
-    <p><ital>You came, you saw, you ciphered.</ital></p>
+    <p style={{fontStyle: 'italic'}}>You came, you saw, you ciphered.</p>
     <p>elvjc pfljf despa bapsl cscpf bblkK fksak yldcj aqlpc qxqsa jlbri cqqfb frcsf lk</p>
     <p>Answer: _ _ _ _ _ _ _ _</p>
     <p>Hint: You already have the key.</p>
